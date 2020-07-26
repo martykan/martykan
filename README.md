@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+## I'm Tomáš Martykán
 
-<!--
-**martykan/martykan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github! I am a software developer and student from Brno, Czech republic. I mostly work on mobile development. Here you can see some personal projects I've built in the past. 
+Currently I am interested in studying augmented reality and artificial intelligence. 
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Android, Kotlin, Jetpack, RxJava, Retrofit, Dagger
+- React Native, Xamarin
+- Swift (macOS/iOS) 
+- Web: React (Next.js, Gatsby), Angular, Hugo
+- Backend: Node.js, Golang, PostgreSQL, Redis, Docker
